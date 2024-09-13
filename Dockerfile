@@ -1,4 +1,4 @@
-FROM jlesage/baseimage-gui:debian-11-v4
+FROM jlesage/baseimage-gui:debian-11-v4.4.2
 
 ENV APP_NAME="Avocent vKVM"  \
     IDRAC_PORT=443      \
